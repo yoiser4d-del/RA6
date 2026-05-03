@@ -21,7 +21,7 @@ Para visualizar el proyecto localmente, sigue estos pasos:
 Aquí se pueden observar el proyecto hecho:
 
 ### Catalogo de artistas!
-![Vista del proyecto](webimg.png)
+![Vista del proyecto](web.png)
 
 
 
