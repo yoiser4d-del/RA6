@@ -21,7 +21,7 @@ Para visualizar el proyecto localmente, sigue estos pasos:
 Aquí se pueden observar el proyecto hecho:
 
 ### Pagina de Universidad!
-![Vista del proyecto](paginajava/ifk.png)
+![Vista del proyecto](webimg.png)
 
 
 
