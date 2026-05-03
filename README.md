@@ -20,7 +20,7 @@ Para visualizar el proyecto localmente, sigue estos pasos:
 ## 🖼️ Imágenes de la ejecución del proyecto
 Aquí se pueden observar el proyecto hecho:
 
-### Pagina de Universidad!
+### Catalogo de artistas!
 ![Vista del proyecto](webimg.png)
 
 
