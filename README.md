@@ -33,3 +33,4 @@ Aquí se pueden observar el proyecto hecho:
 - **Módulo Formativo:** Desarrollo Web
 - **Curso / Sección:** 4to D
 - **Año escolar:** 2025-2026
+- - **Estudiante:** Yoiser Cedano
