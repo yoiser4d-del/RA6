@@ -1,7 +1,7 @@
 # Catalogo de Artistas
 
 ## 📌 Descripción
-Este proyecto consiste el un catalogo de diferentes artistas dominicanos usando un API para que salgan diferentes cancionesd de estos artistas
+Este proyecto consiste el un catalogo de diferentes artistas dominicanos usando un API para que salgan diferentes canciones de estos artistas
 
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguajes:** HTML, CSS, JAVASCRIPT
